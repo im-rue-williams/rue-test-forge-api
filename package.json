@@ -1,0 +1,30 @@
+{
+  "name": "rue-test-forge-api",
+  "version": "1.0.0",
+  "description": "testing forge api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/im-rue-williams/rue-test-forge-api.git"
+  },
+  "keywords": [
+    "forge",
+    "api",
+    "node",
+    "express"
+  ],
+  "author": "Rue Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/im-rue-williams/rue-test-forge-api/issues"
+  },
+  "homepage": "https://github.com/im-rue-williams/rue-test-forge-api#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
